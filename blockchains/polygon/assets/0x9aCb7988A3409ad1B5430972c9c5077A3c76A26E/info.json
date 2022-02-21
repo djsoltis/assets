@@ -1,0 +1,25 @@
+{
+    "name": "The Toker Token",
+    "type": "POLYGON",
+    "symbol": "TOKER",
+    "decimals": 18,
+    "website": "https://mcweedy.me",
+    "description": "The Toker Tokens are used to help support the launch of McWeedy Nug Headz and support the start-up of Cannabis Micro-Businesses",
+    "explorer": "https://polygonscan.com/token/0x9aCb7988A3409ad1B5430972c9c5077A3c76A26E",
+    "status": "active",
+    "id": "0x9aCb7988A3409ad1B5430972c9c5077A3c76A26E",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/TheTokerTokens"
+        },
+        {
+            "name": "Subreddit",
+            "url": "https://www.reddit.com/r/TokerTokens/"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/TokerToken"
+        }
+    ]
+}
